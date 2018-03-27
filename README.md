@@ -6,7 +6,7 @@ GroupDocs.Conversion for .NET is a universal document conversion library designe
 
 <p align="center">
 
-  <a title="Download complete GroupDocs.Conversion for .NET source code" href="https://github.com/groupdocsconversion/GroupDocs_Conversion_NET/archive/master.zip">
+  <a title="Download complete GroupDocs.Conversion for .NET source code" href="https://github.com/groupdocs-conversion/GroupDocs.Conversion-for-.NET/archive/master.zip">
 	<img src="https://raw.github.com/AsposeExamples/java-examples-dashboard/master/images/downloadZip-Button-Large.png" />
   </a>
 </p>
@@ -18,7 +18,7 @@ Directory | Description
 # Resources
 
 + **Website:** [www.groupdocs.com](http://www.groupdocs.com)
-+ **Product Home:** [GroupDocs.Conversion for .NET](https://www.groupdocs.com/products/conversion/net)
++ **Product Home:** [GroupDocs.Conversion for .NET](https://products.groupdocs.com/conversion/net)
 + **Download:** [Download GroupDocs.Conversion for .NET](https://downloads.groupdocs.com/conversion/net)
 + **Documentation:** [GroupDocs.Conversion for .NET Documentation](https://docs.groupdocs.com/display/conversionnet/Home)
 + **Forum:** [GroupDocs.Conversion for .NET Forum](https://forum.groupdocs.com/c/conversion)
